@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Azamat
 
-<!--
-**garough05-ctrl/garough05-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Junior SOC / Blue Team Enthusiast  
+ Almaty, Kazakhstan  
+---
+##  About Me
+I am an aspiring cybersecurity specialist focused on Blue Team operations.  
+Currently developing skills in log analysis, threat detection, and network security.
+-  Learning: Python, SIEM, Networking
+-  Interested in: SOC, Threat Hunting, Incident Response
+-  Platform: TryHackMe
+-  Major: Information Technology / Cybersecurity
+---
+## Technical Skills
+**Programming:**
+- Python (basics, loops, conditions, file handling)
+**Networking:**
+- TCP/IP
+- OSI model
+- DNS, HTTP, ICMP
+**Security Concepts:**
+- Brute-force detection
+- Log analysis
+- MITRE ATT&CK basics
+- Firewall fundamentals
+---
+##  Current Goals
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build cybersecurity projects
+- Improve Python skills
+- Land Junior SOC position
+---
+##  Contact
+Email: garough.05@gmail.com  
+LinkedIn: (http://linkedin.com/in/азамат-кенесов-925aa81b7)
+---
+Always learning. Always improving.
