@@ -11,8 +11,6 @@ Currently developing skills in log analysis, threat detection, and network secur
 -  Major: Information Technology / Cybersecurity
 ---
 ## Technical Skills
-**Programming:**
-- Python (basics, loops, conditions, file handling)
 **Networking:**
 - TCP/IP
 - OSI model
@@ -20,13 +18,11 @@ Currently developing skills in log analysis, threat detection, and network secur
 **Security Concepts:**
 - Brute-force detection
 - Log analysis
-- MITRE ATT&CK basics
 - Firewall fundamentals
 ---
 ##  Current Goals
 
 - Build cybersecurity projects
-- Improve Python skills
 - Land Junior SOC position
 ---
 ##  Contact
