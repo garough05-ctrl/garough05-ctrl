@@ -1,4 +1,3 @@
-# Hi, I'm Azamat
 
  Junior SOC / Blue Team Enthusiast  
  Almaty, Kazakhstan  
